@@ -32,3 +32,18 @@ Running this command, will create a new file : ```bee_gees.cor``` written in byt
 ![bee_gees_cor](https://i.ibb.co/wJhsD7c/Screen-Shot-2019-10-28-at-1-40-48-PM.png)
 
 ## The Virtual Machine 
+
+**Usage:**
+```
+Usage : ./corewar player1.cor player2.cor
+Available options :
+    -n      [-n player_number player.cor]
+  -dump     [-dump cycle], stops the game
+ -viewer    [-viewer], shows graphic mode
+ ```
+ 
+ Here is what the battle for the memory looks like with 4 champions :
+ 
+ ![gif](https://s3.amazonaws.com/img0.recordit.co/eZyJDfBMBx.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1572271524&Signature=gHS9k32odadtGpS4Lb7qUpwYuRU%3D)
+ 
+ 
