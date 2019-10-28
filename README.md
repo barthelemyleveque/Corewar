@@ -44,6 +44,6 @@ Available options :
  
  Here is what the battle for the memory looks like with 4 champions :
  
- ![gif](https://s3.amazonaws.com/img0.recordit.co/eZyJDfBMBx.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1572271524&Signature=gHS9k32odadtGpS4Lb7qUpwYuRU%3D)
+ ![gif](http://g.recordit.co/1fTiqWbEYt.gif)
  
  
