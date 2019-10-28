@@ -44,6 +44,7 @@ Available options :
  
  Here is what the battle for the memory looks like with 4 champions :
  
+ ```./corewar -viewer Octobre_Rouge_V4.2.cor Gagnant.cor championships/2017/tbillard/Douceur_power.cor examples/helltrain.cor ```
 
  ![gif](https://i.ibb.co/88qkGS0/gid.gif) 
  
